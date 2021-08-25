@@ -10850,7 +10850,7 @@ a.text-dark:focus {
     }
 
     @page {
-        size: a3
+        size: ledger
     }
 
     body {
@@ -11067,3 +11067,4 @@ a.resume-link:hover {
         border-left: 0
     }
 }
+
